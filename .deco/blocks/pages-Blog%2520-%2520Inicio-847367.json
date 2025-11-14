@@ -1,0 +1,67 @@
+{
+  "name": "Blog - Inicio",
+  "path": "/blog",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "header-1"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "el-blog-hero"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ImageWithParagraph.tsx",
+        "descriptionPlacement": "center",
+        "titlePlacement": "center",
+        "tagline": " ",
+        "cta": [],
+        "ctaPlacement": "center",
+        "image": "https://data.decoassets.com/agrofolilkimun/8a30bea0-faf6-4bd6-abc0-b7c9b48cd971/IMG-20250208-WA0080.jpg",
+        "title": "Revisa nuestros últimos artículos",
+        "description": "Hoy aprenderás algo nuevo junto a nosotros🍀"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/BlogPosts.tsx",
+        "posts": {
+          "__resolveType": "blog/loaders/BlogpostList.ts",
+          "sortBy": "date_desc",
+          "count": 200
+        },
+        "cta": {},
+        "pagination": {}
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "logos-main"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "testimonios-1"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}

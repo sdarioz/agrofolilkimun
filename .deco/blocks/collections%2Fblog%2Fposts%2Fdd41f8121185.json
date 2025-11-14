@@ -1,0 +1,32 @@
+{
+  "name": "collections/blog/posts/dd41f8121185",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Rodrigo Navarrete",
+        "email": "rodrigo@agrofolilkimun.cl",
+        "jobTitle": "Autor",
+        "company": "Agrofolilkimün | CEO",
+        "avatar": "https://data.decoassets.com/agrofolilkimun/e3dcffd3-6b05-4ddc-b28b-1f808f25e411/rodrigo1.png"
+      }
+    ],
+    "categories": [
+      {
+        "name": "post",
+        "slug": "/:post"
+      }
+    ],
+    "content": "<h1>Un símbolo de resiliencia y biodiversidad</h1><p>La flora nativa juega un rol fundamental en la preservación de nuestros ecosistemas. Estas plantas están adaptadas a las condiciones locales, resistiendo cambios climáticos y protegiendo el suelo frente a la erosión. Además, su presencia fomenta la biodiversidad, proporcionando alimento y refugio para polinizadores como abejas y aves.</p><p></p><h2>Cómo puede integrarse en la agricultura regenerativa</h2><p>En Agro Folil Kimün promovemos el uso de flora nativa en prácticas agroecológicas y sistemas de policultivo. Incorporar plantas como esta en huertos y cultivos no solo embellece el entorno, sino que también:</p><ul><li><p><strong>Mejora la salud del suelo:</strong> Sus raíces contribuyen a la retención de agua y nutrientes.</p></li><li><p><strong>Control biológico natural:</strong> Atrae insectos beneficiosos que ayudan a controlar plagas.</p></li><li><p><strong>Aumenta la resiliencia del ecosistema:</strong> Fortalece la interacción entre plantas y microorganismos locales.</p></li></ul><p></p><h4><strong>Conectando con nuestra tierra</strong></h4><p></p><p>Cuidar y promover la flora nativa es una forma de reconectar con nuestra identidad y valorar el entorno que nos rodea. Cada flor es una oportunidad para proteger el patrimonio natural y contribuir a la regeneración de nuestros suelos.</p><p></p><p>¿Quieres saber cómo integrar flora nativa en tus cultivos? Sigue nuestro blog y descubre más sobre agricultura regenerativa y prácticas sostenibles.</p><p></p><p><strong>Juntos, cultivemos un futuro en armonía con la naturaleza.</strong></p>",
+    "title": "La belleza nativa: el poder oculto de nuestras flores autóctonas",
+    "excerpt": "En el corazón de nuestra tierra, florecen tesoros únicos que muchas veces pasan desapercibidos. Esta planta, con sus delicadas flores colgantes de vibrantes tonos rojos y púrpuras, es un claro ejemplo de la riqueza de la flora nativa de Chile. No solo destaca por su belleza, sino también por su capacidad para integrarse en ecosistemas regenerativos, aportando múltiples beneficios.",
+    "image": "https://data.decoassets.com/agrofolilkimun/0eccac9f-c081-46f3-8dc3-2b3156e16062/IMG-20250208-WA0082.jpg",
+    "date": "2024-04-10",
+    "slug": "enero-belleza-nativa",
+    "extraProps": [],
+    "seo": {
+      "image": "https://data.decoassets.com/agrofolilkimun/0eccac9f-c081-46f3-8dc3-2b3156e16062/IMG-20250208-WA0082.jpg",
+      "title": "La belleza nativa: el poder oculto de nuestras flores autóctonas"
+    }
+  }
+}

@@ -1,0 +1,59 @@
+{
+  "__resolveType": "site/sections/Testimonials.tsx",
+  "title": "Testimonios acerca de nuestros productos 🍄",
+  "arrows": true,
+  "dots": true,
+  "interval": 5,
+  "slides": [
+    {
+      "content": {
+        "avatar": "https://data.decoassets.com/agrofolilkimun/e83c611e-aeb4-4086-b9fe-c07d47486869/Captura-de-pantalla-2025-02-10-000107.png",
+        "description": "Después de usar BIO-BOSKE en mi huerto, simplemente no hay vuelta atrás. La diferencia es increíble, las plantas resisten mejor a todo, sin mencionar que están visiblemente mejor nutridas. Por eso me gustan los fertilizantes orgánicos.",
+        "alt": "sdfsdfs",
+        "name": "Daniela",
+        "position": "Compró BIO-BOSKE"
+      }
+    },
+    {
+      "content": {
+        "avatar": "https://data.decoassets.com/agrofolilkimun/3263ec0d-cc97-43d2-b032-c69547c5b254/Captura-de-pantalla-2025-02-10-001416.png",
+        "description": "El Tierramix ha sido clave para mejorar el crecimiento de mis almácigos. Las plantas agarran fuerza y crecen parejas. Lo recomiendo a ojos cerrados.",
+        "alt": "asd",
+        "name": "Javier",
+        "position": "Compró TIERRAMIX"
+      }
+    },
+    {
+      "content": {
+        "avatar": "https://data.decoassets.com/agrofolilkimun/34036957-a08e-4b23-b901-4d630e75746f/Captura-de-pantalla-2025-02-10-002241.png",
+        "name": "Fernanda",
+        "position": "Compró HUMATO PK",
+        "description": "Probé el Humato PK y resultó ser una de las mejores decisiones para mis frutales. Las raíces están mejor desarrolladas y los frutos más vistosos. Excelente producto."
+      }
+    },
+    {
+      "content": {
+        "avatar": "https://data.decoassets.com/agrofolilkimun/092bbb57-604f-4a40-a355-1e8f92c8114b/Captura-de-pantalla-2025-02-10-002034.png",
+        "description": "Tuve problemas de oídio y el azufre líquido me ayudó a controlarlo. Desde entonces lo uso cada vez que aparece algún hongo en las viñas.",
+        "name": "Miguel",
+        "position": "Compró Azufre Líquido"
+      }
+    },
+    {
+      "content": {
+        "avatar": "https://data.decoassets.com/agrofolilkimun/17cf7dc1-11c2-4969-b394-0346f11c819d/Captura-de-pantalla-2025-02-10-004017.png",
+        "description": "El Bocashi le devolvió la vida a mi suelo. Lo uso hace meses y las plantas están mucho más firmes y con mejores frutos. Súper fácil de aplicar..",
+        "name": "Marcelo",
+        "position": "Compró Abono Bocashi"
+      }
+    },
+    {
+      "content": {
+        "avatar": "https://data.decoassets.com/agrofolilkimun/de418fde-350e-49bb-b45d-e2bb1e27892f/Captura-de-pantalla-2025-02-10-004633.png",
+        "description": "Probé el jabón potásico y es una solución rápida, no daña las plantas, me funcionó perfecto para eliminar el pulgón de mis tomates. Muy buen producto.",
+        "name": "Cristian",
+        "position": "Compró Jabón Potásico"
+      }
+    }
+  ]
+}

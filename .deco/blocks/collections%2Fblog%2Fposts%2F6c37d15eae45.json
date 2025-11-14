@@ -1,0 +1,31 @@
+{
+  "name": "collections/blog/posts/6c37d15eae45",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Rodrigo Navarrete",
+        "jobTitle": "Autor ",
+        "company": " Agrofolilkimün | CEO",
+        "avatar": "https://data.decoassets.com/agrofolilkimun/e3dcffd3-6b05-4ddc-b28b-1f808f25e411/rodrigo1.png",
+        "email": "rodrigo@agrofolilkimun.cl"
+      }
+    ],
+    "categories": [
+      {
+        "name": "post",
+        "slug": "/:post"
+      }
+    ],
+    "extraProps": [],
+    "title": "Unidos por la tierra: reforestación del humedal urbano Tromen de Temuco",
+    "excerpt": "La regeneración del planeta es posible cuando sociedad civil, comunidades e instituciones públicas se unen para actuar. Así lo demostramos en una emotiva jornada de reforestación en el humedal urbano Tromen de Temuco, donde 450 árboles nativos fueron plantados como símbolo de esperanza y compromiso con el futuro.",
+    "image": "https://data.decoassets.com/agrofolilkimun/4e5bfc3d-3d2b-4b55-82d7-0adc7f6ec058/WhatsApp-Image-2024-09-05-at-13.56.00-1-1536x864.jpeg",
+    "content": "<p>Esta actividad fue el cierre del <strong>Programa de liderazgo Ambiental en La Araucanía</strong>, una iniciativa que dejó huella en la comunidad, inspirando a jóvenes y adultos a convertirse en verdaderos <strong>guardianes de la tierra</strong>.</p><p></p><hr><p></p><h2><strong>La fuerza de la colaboración</strong></h2><p>La reforestación fue posible gracias a la colaboración de múltiples actores. <strong>CONAF</strong> donó 250 árboles, mientras que la <strong>Oficina de asuntos Indígenas de la Municipalidad de Temuco</strong> aportó otros 200 árboles.</p><p></p><p><img src=\"https://data.decoassets.com/agrofolilkimun/68e04108-d9f8-4e0e-bc17-9a05e135db5e/Captura-de-pantalla-2025-02-10-031531.png\"></p><p><strong>Agrofolilkimün </strong>aportó el conocimiento técnico necesario para garantizar que la reforestación se realizara con prácticas responsables y sostenibles.</p><p></p><p>Desde la preparación del suelo hasta la selección de especies nativas, nos enfocamos en crear un entorno que no solo recupere el humedal, sino que también promueva su equilibrio a largo plazo.</p><p></p><hr><p></p><h2><strong>Construyendo un futuro verde y sostenible</strong></h2><p>Más allá de plantar árboles, este proyecto fue una oportunidad para <strong>fortalecer lazos y reconstruir confianza</strong> entre diversos sectores.</p><p></p><p>La comunidad <strong>Juan Currin</strong>, como anfitriona del evento, participó activamente en cada etapa, trabajando junto a grupos de scouts que enseñaron a los más jóvenes sobre el cuidado del medioambiente.</p><p></p><p>La <strong>Fundación KM</strong> enriqueció la experiencia con charlas sobre conocimientos ancestrales, mientras que el <strong>Centro de Estudios Sociales (CES)</strong> brindó su respaldo para asegurar que el proyecto se alineara con los objetivos de largo plazo de la comunidad.</p><p></p><p>El verdadero impacto no fue solo ambiental, sino también social.</p><p></p><p><strong>Venancio Coñuepan</strong>, director territorial de la Fundación en La Araucanía, señaló: <em>“No tan solo plantamos árboles nativos, sino que también plantamos confianza y reconciliación a través de la colaboración”</em>.</p><p></p><hr><p></p><h2><strong>Un legado para las futuras generaciones</strong></h2><p>Los jóvenes, bajo el lema <strong>«Somos CARA y damos CARA al cambio climático»</strong>, mostraron que la acción colectiva es el camino para construir un futuro más consciente y sostenible.</p><p></p><p>Cada árbol plantado representa un acto de resistencia frente a la crisis climática y un símbolo de unidad intergeneracional.</p><p></p><hr><p></p><p style=\"text-align: center\">En Agrofolilkimün, somos firmes en nuestro compromiso de educar, restaurar y regenerar nuestros ecosistemas. Invitamos a todos a ser parte de esta transformación y a trabajar juntos para <strong>cuidar la tierra que nos cuida</strong>.</p>",
+    "date": "2025-02-10",
+    "slug": "enero-reforestando-trumen",
+    "seo": {
+      "image": "https://data.decoassets.com/agrofolilkimun/6306b317-e1e8-4248-8a1c-9f69b2460a30/Captura-de-pantalla-2025-02-10-031632.png"
+    }
+  }
+}

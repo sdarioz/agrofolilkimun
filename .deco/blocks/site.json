@@ -1,0 +1,29 @@
+{
+  "__resolveType": "site/apps/site.ts",
+  "routes": [
+    {
+      "__resolveType": "website/loaders/pages.ts"
+    }
+  ],
+  "seo": {
+    "titleTemplate": "%s",
+    "descriptionTemplate": "%s",
+    "type": "website",
+    "title": "Agrofolilkimün Chile | Blog",
+    "description": "Agrofolilkimün busca ser un referente en el mundo de la agricultura regenerativa mediante la creación de productos agroecológicos que promueven cultivos saludables y mejoran la calidad del suelo.",
+    "image": "https://data.decoassets.com/agrofolilkimun/e103b876-ffad-42f6-ba4a-f2a235fd73f2/LOGO_AGROFOLILKIMUN-removebg-preview.png",
+    "favicon": "https://ozksgdmyrqcxcwhnbepg.supabase.co/storage/v1/object/public/assets/5018/71c97b9c-b94a-4cf5-8120-4bb7b99b21bb"
+  },
+  "global": [
+    {
+      "__resolveType": "htmx/sections/htmx.tsx"
+    }
+  ],
+  "caching": {
+    "directives": []
+  },
+  "firstByteThresholdMS": false,
+  "theme": {
+    "__resolveType": "Neutral"
+  }
+}

@@ -1,0 +1,11 @@
+{
+  "name": "collections/blog/authors/07ae63fcc4c0",
+  "__resolveType": "blog/loaders/Author.ts",
+  "author": {
+    "name": "Rodrigo Navarrete",
+    "jobTitle": "Autor ",
+    "company": " Agrofolilkimün | CEO",
+    "avatar": "https://data.decoassets.com/agrofolilkimun/e3dcffd3-6b05-4ddc-b28b-1f808f25e411/rodrigo1.png",
+    "email": "rodrigo@agrofolilkimun.cl"
+  }
+}

@@ -1,0 +1,15 @@
+{
+  "__resolveType": "site/sections/ImageWithParagraph.tsx",
+  "titlePlacement": "left",
+  "descriptionPlacement": "left",
+  "placement": "left",
+  "cta": [
+    {
+      "style": "Outline"
+    }
+  ],
+  "ctaPlacement": "left",
+  "image": "https://data.decoassets.com/agrofolilkimun/1fdf8cbe-e72f-4352-9439-9de03071aba5/IMG-20250208-WA0084.jpg",
+  "description": "Lorem ipsum dolor sit amet",
+  "title": "Info"
+}

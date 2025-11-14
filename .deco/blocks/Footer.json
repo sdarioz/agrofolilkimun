@@ -1,0 +1,52 @@
+{
+  "__resolveType": "site/sections/Footer.tsx",
+  "links": [
+    {
+      "items": [
+        {
+          "label": "Agroecología"
+        }
+      ],
+      "title": "Blog"
+    },
+    {
+      "items": [
+        {
+          "label": "Podas"
+        }
+      ],
+      "title": "Servicios"
+    },
+    {
+      "items": [
+        {
+          "label": "Innovación"
+        }
+      ],
+      "title": "Cultura"
+    },
+    {
+      "items": []
+    }
+  ],
+  "bottomLinks": [],
+  "social": [
+    {
+      "network": "Instagram",
+      "href": "https://www.instagram.com/agrofolilkimun/"
+    }
+  ],
+  "subscribe": {
+    "instructions": "<p>Agrofolilkimün busca ser un referente en el mundo de la agricultura regenerativa mediante la creación de productos agroecológicos que promueven cultivos saludables y mejoran la calidad del suelo.</p>",
+    "title": "Suscríbete a nuestro newsletter",
+    "description": "No defraudaremos a tu inbox :)"
+  },
+  "logo": {
+    "src": "https://data.decoassets.com/agrofolilkimun/252b8e8e-3f14-45a1-bbd9-e5f73c88e081/image-removebg.png"
+  },
+  "madeWith": {
+    "src": "https://data.decoassets.com/agrofolilkimun/b3c9e119-e7eb-4ded-8781-e5d65fe76067/Logo-corfo.png",
+    "label": "Con el apoyo de     "
+  },
+  "copyright": "© 2025 Agrofolilkimün | Hecho con ❤️ por Sebastián Darío R."
+}

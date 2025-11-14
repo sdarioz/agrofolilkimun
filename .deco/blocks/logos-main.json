@@ -1,0 +1,15 @@
+{
+  "__resolveType": "site/sections/Logos.tsx",
+  "logos": [
+    {
+      "src": "https://data.decoassets.com/agrofolilkimun/0089f38d-6750-4d9b-8308-ca0dd08969a2/startupchile.png"
+    },
+    {
+      "src": "https://data.decoassets.com/agrofolilkimun/76bbd980-3042-47b2-8fbd-e1c94bf50ea7/Logo-minci.png"
+    },
+    {
+      "src": "https://data.decoassets.com/agrofolilkimun/b3c9e119-e7eb-4ded-8781-e5d65fe76067/Logo-corfo.png"
+    }
+  ],
+  "title": "Con el apoyo de:"
+}

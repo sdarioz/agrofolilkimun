@@ -1,0 +1,23 @@
+{
+  "__resolveType": "site/sections/Header.tsx",
+  "navigation": {
+    "links": [
+      {
+        "label": "Blog",
+        "url": "/blog"
+      },
+      {
+        "label": "Servicios",
+        "url": "/servicios"
+      },
+      {
+        "label": "Productos",
+        "url": "/productos"
+      }
+    ],
+    "buttons": []
+  },
+  "logo": {
+    "src": "https://data.decoassets.com/agrofolilkimun/7ad392fc-00c4-48c9-aecc-4cc535e31839/agrofolilogo2.jpg"
+  }
+}

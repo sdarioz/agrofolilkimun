@@ -1,0 +1,28 @@
+{
+  "name": "collections/blog/posts/fbe776cc0ed1",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Rodrigo Navarrete",
+        "jobTitle": "Autor",
+        "company": "Agrofolilkimün | CEO",
+        "avatar": "https://data.decoassets.com/agrofolilkimun/e3dcffd3-6b05-4ddc-b28b-1f808f25e411/rodrigo1.png",
+        "email": "rodrigo@agrofolilkimun.cl"
+      }
+    ],
+    "categories": [
+      {
+        "name": "post",
+        "slug": "/:post"
+      }
+    ],
+    "extraProps": [],
+    "title": "Reforestación en la Araucanía tras los incendios forestales🌳",
+    "excerpt": "La tierra guarda cicatrices que el fuego dejó a su paso. La Araucanía, conocida por sus paisajes exuberantes y su rica biodiversidad, enfrenta uno de los desafíos ambientales más complejos de las últimas décadas.",
+    "date": "2025-01-10",
+    "slug": "reforestando-la-araucania",
+    "image": "https://data.decoassets.com/agrofolilkimun/68e04108-d9f8-4e0e-bc17-9a05e135db5e/Captura-de-pantalla-2025-02-10-031531.png",
+    "content": "<p>Los incendios forestales no solo devastaron grandes extensiones de bosque nativo, sino que también afectaron la vida de comunidades enteras, rompiendo un delicado equilibrio entre la naturaleza y quienes la habitan.</p><p></p><p>Sin embargo, de las cenizas también puede nacer la esperanza. La reforestación no es solo plantar árboles; es sembrar futuro, reconstruir tejido social y restaurar el vínculo profundo que nos conecta con la tierra.</p><p></p><p><img src=\"https://data.decoassets.com/agrofolilkimun/461df55f-7a59-4180-938e-56b820ce0bd6/IMG-20250208-WA0093.jpg\"></p><p></p><hr><p></p><h2><strong>Más que plantar árboles, sembramos esperanza</strong></h2><p>El año pasado, Agrofolilkimün tuvo el honor de participar en una jornada de reforestación junto a la <strong>Misión Ñielol</strong>, donde más de <strong>100 jóvenes</strong> se unieron con el propósito de sanar la tierra, aprender y actuar de forma concreta. </p><p></p><p>No fue solo una actividad más; fue un verdadero acto de resistencia frente a la destrucción, una afirmación de que cada acción cuenta.</p><p></p><p><img src=\"https://data.decoassets.com/agrofolilkimun/a461a44e-f561-4ddf-ba46-e18e7089b079/Captura-de-pantalla-2025-02-10-031602.png\"></p><p></p><p>La actividad se centró en la <strong>plantación de especies nativas</strong>, cuidadosamente seleccionadas para asegurar su adaptación al ecosistema local. Robles, coigües y boldos, entre otros, encontraron su nuevo hogar en tierras preparadas con esmero.</p><p></p><hr><p></p><h2><strong>Reforestar para regenerar vida</strong></h2><p>Reforestar no es solo una cuestión ecológica; es también una forma de <strong>reconstruir la identidad de la tierra</strong>, respetando los saberes ancestrales y devolviéndole su vitalidad perdida. </p><p></p><p>La Araucanía es mucho más que paisajes; es un símbolo de resistencia, de comunidades que han vivido durante generaciones en armonía con la naturaleza y que hoy, más que nunca, necesitan nuestro apoyo.</p><p></p><p><img src=\"https://data.decoassets.com/agrofolilkimun/265570e3-2ba2-4ba4-b32b-2c18930f84fa/Captura-de-pantalla-2025-02-10-031702.png\"></p><p></p><hr><p></p><h2><strong>Colaboración para un futuro sostenible</strong></h2><p>Esta jornada no habría sido posible sin la colaboración de muchas manos y corazones. Agradecemos especialmente a la <strong>Oficina de Medio Ambiente de la Municipalidad de Temuco</strong>, cuyo constante apoyo fortalece cada iniciativa que llevamos adelante.</p><p></p><p>Sabemos que este es solo el comienzo de un largo camino, pero estamos convencidos de que cada árbol plantado es una promesa de cambio. Un cambio que no solo puede restaurar nuestros bosques, sino también fortalecer nuestra conexión con la tierra.</p><p></p><p><img src=\"https://data.decoassets.com/agrofolilkimun/6306b317-e1e8-4248-8a1c-9f69b2460a30/Captura-de-pantalla-2025-02-10-031632.png\"></p><p></p><hr><p></p><h2><strong>Un llamado a la acción</strong></h2><p>En Agrofolilkimün creemos que <strong>todos podemos ser parte del cambio</strong>. Cada árbol cuenta, cada acción suma. Seguiremos trabajando para restaurar nuestros bosques y para enseñar a las nuevas generaciones que la relación con la tierra es sagrada y merece nuestro cuidado constante.</p><p></p><p>Si quieres sumarte a nuestras próximas actividades o aprender más sobre prácticas de reforestación sostenible, <strong>contáctanos</strong>.</p><p></p><p><img src=\"https://data.decoassets.com/agrofolilkimun/35c31407-ef20-41a2-8a08-9cb75d76446f/IMG-20250208-WA0095.jpg\"></p>"
+  }
+}

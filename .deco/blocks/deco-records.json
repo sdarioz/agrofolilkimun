@@ -1,0 +1,9 @@
+{
+  "__resolveType": "site/apps/deco/records.ts",
+  "url": "libsql://agrofolilkimun-decocx.turso.io",
+  "authToken": {
+    "__resolveType": "website/loaders/secret.ts",
+    "name": "DATABASE_AUTH_TOKEN",
+    "encrypted": "a763bc4352fe65a01f44f01247944be3de9d0142732cb54e05a2572d21140621e450661cf0f1a57ef0e16b17fddf2c02785fb2fa6e215bf6dd8413901d189fb961cec6451d4526782607e1973f85c0b643751fe490e441736264689167e869cd5276d0b4e92c6e6a87ccb2f3cdd901e129db3a819d0f6f07ebe5f46dc2be0a458ec117e527fa3890721401e6afc8d9b53bacde74b5eb68114355dead0ed4f064bb9b600d887e1e45e4a655bdb15c391f0bb00dffaf22f46e1a2692ef4ec82ea3c63b819debd193be090fc0c07659c698883b8ad8e9f66fee807e2878362fdee5"
+  }
+}

@@ -1,0 +1,30 @@
+{
+  "name": "collections/blog/posts/7d97b567a1ea",
+  "__resolveType": "blog/loaders/Blogpost.ts",
+  "post": {
+    "authors": [
+      {
+        "name": "Rodrigo Navarrete",
+        "jobTitle": "Autor",
+        "company": "Agrofolilkimün | CEO",
+        "avatar": "https://data.decoassets.com/agrofolilkimun/e3dcffd3-6b05-4ddc-b28b-1f808f25e411/rodrigo1.png",
+        "email": "rodrigo@agrofolilkimun.cl"
+      }
+    ],
+    "categories": [
+      {
+        "name": "post",
+        "slug": "/:post"
+      }
+    ],
+    "extraProps": [],
+    "image": "https://data.decoassets.com/agrofolilkimun/38c3d8f5-cc4f-45bf-9d08-4558cfd5a8ca/Captura-de-pantalla-2025-02-10-020156.png",
+    "title": "El Bokashi como abono",
+    "excerpt": "Un tesoro para la fertilidad del suelo. El Bokashi no solo aporta nutrientes esenciales, sino que también transforma el suelo en un entorno más saludable y fértil.",
+    "alt": "Saco de Bokashi, 30 litros.",
+    "content": "<p>La agricultura sostenible y orgánica ha ganado protagonismo en los últimos años, y con ella, prácticas ancestrales que ofrecen resultados sorprendentes.</p><p></p><p>Entre estas técnicas destaca el <strong>abono Bokashi</strong>, una alternativa natural para mejorar la salud del suelo y potenciar el crecimiento de cultivos.</p><p></p><p>¿Qué hace tan especial a este abono?</p><p></p><p>Acompáñanos a descubrirlo.</p><p></p><h2>¿Qué es el Bokashi?</h2><p></p><p>El Bokashi es un <strong>abono orgánico fermentado</strong>, originario de Japón, donde su nombre significa \"cocer al vapor\". Este curioso nombre hace referencia a las altas temperaturas que alcanza durante su proceso de fermentación, que pueden superar los <strong>40°C y llegar hasta los 70°C</strong>.</p><p></p><p>Este proceso, que dura aproximadamente dos semanas, <strong>elimina patógenos y favorece la proliferación de actinomicetos</strong>, bacterias esenciales en la descomposición de la materia orgánica.</p><p></p><p>El resultado es un abono rico en nutrientes y altamente beneficioso para la estructura y fertilidad del suelo, gracias a su contenido de <strong>carbohidratos, silicio, nitrógeno, macro y micronutrientes, materia orgánica, arcillas y carbono</strong>.</p><p></p><p>Además, el Bokashi se enriquece con minerales clave como <strong>harina de rocas, harina de huesos y fosfitos</strong>, lo que mejora notablemente la textura del sustrato y asegura una nutrición balanceada para las plantas.</p><p></p><h2>Beneficios del Bokashi</h2><p>El Bokashi no solo aporta nutrientes esenciales, sino que también transforma el suelo en un entorno más saludable y fértil.</p><p></p><p><strong>Algunos de sus principales beneficios incluyen:</strong></p><p></p><ul><li><p><strong>Mejora la estructura del suelo</strong>, facilitando la retención de agua y aireación.</p></li><li><p><strong>Estimula la vida microbiana</strong>, creando un ecosistema rico en microorganismos beneficiosos.</p></li><li><p><strong>Aporta nutrientes de forma balanceada</strong>, favoreciendo el desarrollo saludable de cultivos.</p></li><li><p><strong>Fortalece las raíces y mejora la resistencia de las plantas</strong> frente a enfermedades.</p></li><li><p><strong>Incrementa el contenido de materia orgánica</strong>, clave para mantener la fertilidad del suelo a largo plazo.</p></li></ul><p></p><h2>¿Cómo utilizar el Bokashi?</h2><p>El uso del Bokashi es versátil y se adapta a diferentes tipos de cultivos.</p><p></p><p><strong>Aquí te dejamos algunas recomendaciones para aprovecharlo al máximo:</strong></p><p></p><ul><li><p><strong>Preparación de almácigos:</strong> Utiliza entre el <strong>1% y 2%</strong> del total de sustrato o tierra.</p></li><li><p><strong>Abonado por planta:</strong> Aplica <strong>50 a 100 gramos por planta</strong> para asegurar un desarrollo óptimo.</p></li><li><p><strong>Hortalizas:</strong> La dosis ideal es de <strong>1 a 2 kg por metro cuadrado</strong>.</p></li><li><p><strong>Frutales mayores:</strong> Recomendamos <strong>1 kg por planta</strong>, dividido en <strong>3 aplicaciones al año</strong> para mejores resultados.</p></li><li><p><strong>Abonado mensual:</strong> Durante la temporada productiva, puedes realizar aplicaciones mensuales para mantener la vitalidad del suelo.</p></li></ul>",
+    "slug": "el-bokashi",
+    "date": "2025-02-10",
+    "readTime": 3
+  }
+}

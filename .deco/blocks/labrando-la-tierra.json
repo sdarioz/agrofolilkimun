@@ -1,0 +1,18 @@
+{
+  "__resolveType": "site/sections/ImageWithParagraph.tsx",
+  "cta": [
+    {
+      "style": "Outline",
+      "href": "contacto",
+      "text": "Contáctanos"
+    }
+  ],
+  "titlePlacement": "center",
+  "tagline": " ",
+  "descriptionPlacement": "center",
+  "ctaPlacement": "center",
+  "image": "https://data.decoassets.com/agrofolilkimun/1a651831-e316-4dcb-b164-3e4ea875b619/dsdf.webp",
+  "title": "Labrando la tierra...",
+  "description": "Puedes contactarnos para más información acerca de nuestros servicios.",
+  "placement": "left"
+}

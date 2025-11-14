@@ -1,0 +1,107 @@
+{
+  "name": "Productos",
+  "path": "/productos",
+  "sections": [
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "header-1"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/Hero.tsx",
+        "title": "<p>Productos <strong>agroecológicos</strong></p>",
+        "description": "Nuestros productos son tan naturales como la tierra donde crecen.",
+        "placement": "left",
+        "cta": []
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ImageWithParagraph.tsx",
+        "cta": [
+          {
+            "style": "Outline",
+            "href": "contacto",
+            "text": "Comprar ahora"
+          }
+        ],
+        "titlePlacement": "center",
+        "tagline": " ",
+        "descriptionPlacement": "center",
+        "ctaPlacement": "center",
+        "image": "https://data.decoassets.com/agrofolilkimun/c500d815-5d45-494e-a031-76b214113cc6/BIOBOSKE.png",
+        "title": "BIO·BOSKE",
+        "description": "Biofertilizante natural líquido a base de microorganismos de montaña, diseñado para revitalizar el suelo, promover el crecimiento vegetal y fortalecer la resistencia de las plantas.",
+        "placement": "left"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ImageWithParagraph.tsx",
+        "cta": [
+          {
+            "style": "Outline",
+            "href": "contacto",
+            "text": "Comprar ahora"
+          }
+        ],
+        "titlePlacement": "center",
+        "tagline": " ",
+        "descriptionPlacement": "center",
+        "ctaPlacement": "center",
+        "image": "https://data.decoassets.com/agrofolilkimun/b995eabc-8be7-4d9d-bdb1-5d2ecc5bef5d/Captura-de-pantalla-2025-02-10-000442.png",
+        "title": "Humato PK",
+        "description": "Compuesto líquido orgánico que estimula el crecimiento radicular, mejora la estructura del suelo y actúa como controlador natural de enfermedades radiculares.",
+        "placement": "right"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "site/sections/ImageWithParagraph.tsx",
+        "cta": [
+          {
+            "style": "Outline",
+            "href": "contacto",
+            "text": "Comprar ahora"
+          }
+        ],
+        "titlePlacement": "center",
+        "tagline": " ",
+        "descriptionPlacement": "center",
+        "ctaPlacement": "center",
+        "image": "https://data.decoassets.com/agrofolilkimun/38c3d8f5-cc4f-45bf-9d08-4558cfd5a8ca/Captura-de-pantalla-2025-02-10-020156.png",
+        "title": "Abono Bokashi",
+        "description": "Abono fermentado de alta calidad que enriquece el suelo, mejora la textura y promueve la vida microbiológica, asegurando plantas más sanas y productivas.",
+        "placement": "left"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "testimonios-1"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "logos-main"
+      }
+    },
+    {
+      "__resolveType": "website/sections/Rendering/Lazy.tsx",
+      "section": {
+        "__resolveType": "Footer"
+      }
+    }
+  ],
+  "seo": {
+    "__resolveType": "website/sections/Seo/SeoV2.tsx"
+  },
+  "__resolveType": "website/pages/Page.tsx"
+}
