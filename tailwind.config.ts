@@ -1,24 +1,31 @@
-import daisyui from "daisyui";
+import type { Config } from 'tailwindcss';
 
-export default {
-	plugins: [daisyui],
-	daisyui: { themes: [], logs: false },
-	content: ["./**/*.tsx"],
-	theme: {
-		container: { center: true },
-		extend: {
-			fontFamily: {
-				chelseamarket: ["'Chelsea Market'", "sans-serif"], // Add the custom font here
-			},
-			animation: {
-				sliding: "sliding 30s linear infinite",
-			},
-			keyframes: {
-				sliding: {
-					"0%": { transform: "translateX(0)" },
-					"100%": { transform: "translateX(-50%)" },
-				},
-			},
-		},
-	},
+const config: Config = {
+  content: [
+    './pages/**/*.{js,ts,jsx,tsx,mdx}',
+    './components/**/*.{js,ts,jsx,tsx,mdx}',
+    './app/**/*.{js,ts,jsx,tsx,mdx}',
+  ],
+  theme: {
+    extend: {
+      fontFamily: {
+        sans: ['Satoshi', 'sans-serif'],
+      },
+      animation: {
+        sliding: 'sliding 30s linear infinite',
+      },
+      keyframes: {
+        sliding: {
+          '0%': { transform: 'translateX(0)' },
+          '100%': { transform: 'translateX(-50%)' },
+        },
+      },
+    },
+  },
+  plugins: [require('daisyui')],
+  daisyui: {
+    themes: [], // Per original config
+    logs: false, // Per original config
+  },
 };
+export default config;

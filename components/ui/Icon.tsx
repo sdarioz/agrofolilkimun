@@ -1,70 +1,16 @@
-import { asset } from "$fresh/runtime.ts";
-import type { JSX } from "preact";
+import React from 'react';
 
-export type AvailableIcons =
-  | "ChevronLeft"
-  | "ChevronRight"
-  | "ChevronUp"
-  | "ChevronDown"
-  | "QuestionMarkCircle"
-  | "User"
-  | "ShoppingCart"
-  | "Bars3"
-  | "Heart"
-  | "MagnifyingGlass"
-  | "XMark"
-  | "Plus"
-  | "Minus"
-  | "MapPin"
-  | "Phone"
-  | "Elo"
-  | "Mastercard"
-  | "Visa"
-  | "Pix"
-  | "Logo"
-  | "Facebook"
-  | "Instagram"
-  | "Tiktok"
-  | "Truck"
-  | "Discount"
-  | "Return"
-  | "CreditCard"
-  | "Deco"
-  | "Discord"
-  | "Trash"
-  | "FilterList"
-  | "WhatsApp"
-  | "ArrowsPointingOut"
-  | "Linkedin"
-  | "XTwitter"
-  | "Link"
-  | "LinkedinOutline"
-  | "FacebookOutline"
-  | "TwitterOutline";
-
-interface Props extends JSX.SVGAttributes<SVGSVGElement> {
-  /**
-   * Symbol id from element to render. Take a look at `/static/icons.svg`.
-   *
-   * Example: <Icon id="Bell" />
-   */
-  id: AvailableIcons;
+// This is a placeholder Icon component.
+// A full implementation would typically use an SVG sprite system.
+export interface Props extends React.SVGProps<SVGSVGElement> {
+  id: string; // The ID of the icon from the SVG sprite.
   size?: number;
 }
 
-function Icon(
-  { id, strokeWidth = 16, size, width, height, ...otherProps }: Props,
-) {
+export default function Icon({ id, size = 24, className = '', ...otherProps }: Props) {
   return (
-    <svg
-      {...otherProps}
-      width={width ?? size}
-      height={height ?? size}
-      strokeWidth={strokeWidth}
-    >
-      <use href={asset(`/sprites.svg#${id}`)} />
+    <svg className={className} width={size} height={size} {...otherProps}>
+      <use href={`/sprites.svg#${id}`} />
     </svg>
   );
 }
-
-export default Icon;

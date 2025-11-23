@@ -1,0 +1,12 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* Styles from original project for loading state transitions */
+[data-pending] {
+  opacity: 0;
+  transition: opacity 200ms ease-in-out;
+}
+[data-pending="loaded"] {
+  opacity: 1;
+}
